@@ -1,0 +1,19 @@
+# Folders
+.gradle/
+bin/
+build/
+# Files
+*.log
+# IDEs
+.vscode
+.vscode/
+theqtapp.pro.user
+.project
+.classpath
+.settings/
+*.sublime-project
+*.sublime-workspace
+*.ipr
+*.iws
+.idea/
+.nb-gradle/
